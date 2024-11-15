@@ -22,4 +22,4 @@ criterion: The function to measure the quality of a split, Value used: gini
 
 average accuracy: 0.9613 = 96.13%
 
-accuracy per feature: 0.9613/18 = 0.053 = 05.3%
+accuracy per feature: 0.9613/18(number of features) = 0.053 = 05.3%
